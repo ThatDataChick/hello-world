@@ -2,5 +2,5 @@ Hello world my name is Taye Johnson
 I am one of the Instructors at Girl Develop It
 Today we will be showing you how to install and setup Github/Git 
 Don't be shy develop it
-November 6 2018
-Today is a good day
+November 7 2018 
+Today is a good day for us all today as well
